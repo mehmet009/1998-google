@@ -1,0 +1,30 @@
+header{ 
+    margin-bottom: auto;
+}
+.box-1 {
+    background-color: rgba(138, 136, 136, 0.164);
+  width: 1208px ;
+  height: 60;
+ 
+
+}
+.box-2{
+    background-color: #7EE5DA;
+    margin: auto;
+ 
+}
+.box-3{
+    background-color: #70ccc2;
+
+}
+.box-4{
+    background-color: #62B3AA;
+    font-size: small;
+}
+body{
+    text-align: center;   
+}
+table{
+    border: 0; width: 90%;
+    margin: auto;
+}
